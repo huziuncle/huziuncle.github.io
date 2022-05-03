@@ -154,10 +154,10 @@ content_width: "1200px"
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+defaults:
+  home:
+    heading: "Huzi Uncle's Blog"
+    subheading: "Learning & Sharing"
 #     banner: "Your image url"
 
 # Banner default settings
